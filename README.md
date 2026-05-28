@@ -28,7 +28,7 @@ Python 3.x
 VS Code / PyCharm
 Installation
 Clone the Repository
-git clone https://github.com/yourusername/subdomain-enumeration-tool.git
+git clone https://github.com/Sidthehacker-code/subdomain-enumeration-tool.git
 Navigate to Project Folder
 cd subdomain-enumeration-tool
 Install Required Libraries
